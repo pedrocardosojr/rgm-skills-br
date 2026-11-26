@@ -2,6 +2,8 @@
 
 > **EN.** Revenue Growth Management skills for consumer goods in Brazil, packaged as a Claude Code plugin: price waterfall, promotion ROI, price-pack architecture, and pricing under Brazil's 2026-2033 tax reform (CBS/IBS). Ships with a fictional CPG company's dataset and an end-to-end case. Content in Portuguese.
 
+[![Painel-resumo dos quatro casos](caso/img/00-painel-resumo.svg)](#caso)
+
 Skills de **Revenue Growth Management** para bens de consumo no Brasil, em um plugin para Claude Code. O pacote inclui quatro análises que um time de RGM faz toda semana, os dados de uma indústria fictícia e um caso resolvido do começo ao fim.
 
 | Skill | Pergunta de negócio | Status |
@@ -23,8 +25,6 @@ A pasta [`dados/`](dados/) tem 52 semanas da **Vale Alto Alimentos**, uma empres
 
 ## Caso
 As quatro análises aplicadas à Vale Alto, cada uma com o número-chave, os gráficos e as recomendações em R$.
-
-[![Waterfall total](caso/img/01-waterfall-total.svg)](caso/01-price-waterfall.md)
 
 1. [Price waterfall](caso/01-price-waterfall.md): R$ 15,6 mi (19,8%) da lista não chegam ao bolso, e R$ 0,84 mi por ano são recuperáveis.
 2. [Preço com CBS/IBS](caso/02-preco-cbs-ibs.md): R$ 4,25 mi por ano ficam em disputa em 2033, e o plano garante pelo menos R$ 2,45 mi em qualquer cenário.
