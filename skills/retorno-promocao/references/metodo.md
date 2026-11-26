@@ -6,7 +6,9 @@ Notação: SKU promovido **s**, canal **c**, semanas do evento **W** (duração 
 O preço de bolso por unidade segue a convenção do `price-waterfall` (sem impostos; off-invoice e custo financeiro sobre o preço de nota). Margem unitária `m = bolso − custo variável`. Na promoção, `m` cai porque o preço de nota cai.
 
 ## Baseline
-`B_s` = média das unidades nas semanas limpas em [−6, −1] e [d+2, d+7] em torno do evento. `m̄_s` é a média da margem unitária nessas semanas. O mesmo vale para cada irmão `k`.
+`B_s` = média das unidades nas semanas limpas em [−6, −1] e [d+2, d+7] em torno do evento. **Semana limpa** = sem evento em **nenhum** SKU da mesma categoria × canal (promoção de um irmão contamina a baseline). `m̄_s` é a média da margem unitária nessas semanas. O mesmo vale para cada irmão `k`.
+
+Na borda dos dados, use as semanas limpas que houver. Com menos de 3, marque o evento como **baseline frágil** e trate-o como inconclusivo.
 
 ## Componentes (em R$)
 - **Margem extra no SKU:** `Σ_W u·m − d·B_s·m̄_s`
@@ -19,7 +21,7 @@ O preço de bolso por unidade segue a convenção do `price-waterfall` (sem impo
 `lift_eq = m̄_s × (1 + verba ÷ (m̄_s·B_s·d)) ÷ m_promo − 1`, antes de canibalização e pull-forward. Se o lift obtido for menor, a profundidade não se paga nem no melhor caso.
 
 ## Faixa de ruído
-Para cada série envolvida (o SKU em W e W⁺ e cada irmão em W), com desvio-padrão semanal `σ` das semanas limpas, `n` semanas de baseline e `t` semanas medidas:
+Para cada série envolvida (o SKU em W e W⁺ juntos, com `t = d + 2`, e cada irmão em W, com `t = d`), com desvio-padrão semanal **amostral** `σ` (n − 1) das semanas limpas e `n` semanas de baseline:
 `Var = Σ (t·σ² + (t·σ)²/n) × m̄²`
 O evento é **conclusivo** se `|resultado| > 1,96 × √Var`.
 

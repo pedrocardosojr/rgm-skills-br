@@ -26,9 +26,9 @@ A pasta [`dados/`](dados/) tem 52 semanas da **Vale Alto Alimentos**, uma empres
 ## Caso
 As quatro análises aplicadas à Vale Alto, cada uma com o número-chave, os gráficos e as recomendações em R$.
 
-1. [Price waterfall](caso/01-price-waterfall.md): R$ 15,6 mi (19,8%) da lista não chegam ao bolso, e R$ 0,84 mi por ano são recuperáveis.
+1. [Price waterfall](caso/01-price-waterfall.md): R$ 15,6 mi (19,8%) da lista não chegam ao bolso, e R$ 0,77 mi por ano são recuperáveis.
 2. [Preço com CBS/IBS](caso/02-preco-cbs-ibs.md): R$ 4,25 mi por ano ficam em disputa em 2033, e o plano garante pelo menos R$ 2,45 mi em qualquer cenário.
-3. [Retorno de promoção](caso/03-retorno-promocao.md): R$ 1,00 mi investido devolveu −R$ 0,56 mi; 15 de 27 eventos destroem margem com segurança estatística.
+3. [Retorno de promoção](caso/03-retorno-promocao.md): R$ 1,00 mi investido devolveu −R$ 0,59 mi; 15 de 27 eventos destroem margem com segurança estatística.
 4. [Price-pack architecture](caso/04-price-pack-architecture.md): lançar o 1,5 L e subir o 2 L vale R$ 0,48 mi por ano; baixar o multipack perderia R$ 143 mil.
 
 ## Aviso

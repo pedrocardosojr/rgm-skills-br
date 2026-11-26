@@ -19,7 +19,9 @@ prateleira = custo_liq × (1 + m) / (1 − i − p) + t × custo_liq × (1 + m)
 ```
 **Varejo sem crédito** (Simples): `prateleira = nota × (1 + m)`. O tributo do Simples sobre a receita dele é ignorado.
 
-O markup **m** cancela no índice: `índice_ano = prateleira_ano / prateleira_2025 × 100`. Por canal, pondere pela fatia da revenda no Simples.
+O markup **m** cancela no índice: `índice_ano = prateleira_ano / prateleira_2025 × 100`. O ano-base 2025 usa a carga atual (todos os fatores = 1, sem CBS/IBS). Por canal, **pondere os índices** (não os preços) pela fatia da revenda no Simples; no distribuidor, trate a fatia no Simples como o elo final sem crédito.
+
+O IBS de 0,1% de 2027 e 2028 entra como carga, como está no cronograma. O **IS de equilíbrio principal** é o do varejo com crédito pleno; mostre o dos canais mistos só se for muito diferente.
 
 ## Valor em disputa e cenários
 - Queda da prateleira com P constante: `q = índice/100`. Alta de P que mantém a prateleira: `k = 1/q − 1`.

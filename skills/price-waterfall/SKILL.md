@@ -23,7 +23,7 @@ Com dados do usuário, mapeie as colunas para estes papéis e **diga em uma linh
 
 ## 2. Convenções (não mudar no meio)
 
-- **Tudo sem impostos.** O preço de lista com ICMS e PIS/Cofins por dentro é convertido para sem impostos antes do primeiro degrau. Imposto não é vazamento comercial: ele fica fora do waterfall, e quem trata dele é a skill `preco-cbs-ibs`.
+- **Tudo sem impostos.** O preço de lista com ICMS e PIS/Cofins por dentro é convertido antes do primeiro degrau: `lista sem impostos = lista × (1 − ICMS − PIS/Cofins)`. O IPI é cobrado por fora e não entra. Imposto não é vazamento comercial: ele fica fora do waterfall, e quem trata dele é a skill `preco-cbs-ibs`.
 - **Ordem dos degraus:**
   1. Preço de lista
   2. − Desconto on-invoice (política + condição especial)
@@ -38,6 +38,8 @@ Com dados do usuário, mapeie as colunas para estes papéis e **diga em uma linh
   11. **= Preço de bolso**
   12. − Custo variável
   13. **= Margem de bolso**
+- O on-invoice da venda **já inclui** a condição especial quando houver; não some de novo.
+- "Média do canal" e "média da empresa" são sempre **ponderadas** (o agregado), nunca a média simples dos pares.
 - Os percentuais off-invoice incidem sobre o **preço de nota**. A verba de promoção entra em R$ no par SKU × canal do evento.
 - **Custo financeiro** = taxa mensal × prazo em dias ÷ 30 × preço de nota.
 - **Vazamento** = 1 − preço de bolso ÷ preço de lista. **Margem de bolso %** = margem de bolso ÷ preço de bolso.

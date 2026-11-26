@@ -14,9 +14,14 @@ As regras são explícitas para que a recomendação seja auditável: cada achad
 
 ## Como valorar
 - **R1:** valor = a condição especial inteira no período, anualizada.
-- **R2 e R3:** valor = o desvio em p.p. × a receita a preço de lista do par, limitado ao valor da rubrica causadora.
-- **R5 e R6:** valor = (rubrica atual − referência) × preço de nota. A referência é o melhor canal comparável ou o limite da regra.
+- **R2:** valor = o desvio em p.p. × a receita a preço de lista do par, limitado ao valor da rubrica causadora.
+- **R3:** valor = só o excesso além dos 5 p.p. × o preço de bolso do par.
+- **R4:** não valorar à parte. Se a bonificação vier de condição especial, o valor já está no R1; se for política do canal, a ação é de controle, não de valor.
+- **R5 e R6:** valor = (rubrica atual − **limite da regra**) × preço de nota. Mostre como **teto** o valor contra o melhor canal comparável (mesmo modelo de entrega ou de cliente).
 - **R7:** não valorar aqui; encaminhar para o retorno de promoção.
+
+## Mais de uma regra no mesmo par
+Não some. O valor do achado é o da regra mais específica, nesta ordem: R1 > R5 e R6 > R2 > R3. As outras regras aparecem só na coluna "Regra".
 
 ## Prioridade
 - **1:** valor ≥ 0,5% da margem de bolso total **e** decisão interna (política, pedido mínimo).

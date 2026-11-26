@@ -3,8 +3,8 @@
 Tudo em kg/L por ano e margem de bolso por kg/L (`m`).
 
 ## Lançar um tamanho intermediário N
-1. **Preço:** posicione o R$/kg/L de N entre os vizinhos e confira os degraus resultantes com PP2 a PP4. O preço absoluto de N tem que ficar abaixo do maior vizinho.
-2. **Margem de N:** bolso = lista × (bolso ÷ lista do vizinho mais parecido); custo por kg/L interpolado entre os vizinhos.
+1. **Preço:** escolha o tamanho e o preço pelo price point de prateleira que ele precisa defender (PP6). Os dois degraus novos têm que ficar menores que o degrau atual, e o preço absoluto de N, abaixo do maior vizinho.
+2. **Margem de N:** bolso = lista × (bolso ÷ lista do **vizinho maior de mesmo formato**); custo por kg/L interpolado entre os vizinhos.
 3. **Origem do volume**, em 3 cenários:
 
 | Cenário | Tira do maior | Tira do menor | Volume novo (sobre o tirado) |
@@ -17,7 +17,14 @@ Tudo em kg/L por ano e margem de bolso por kg/L (`m`).
 
 ## Repreçar um tamanho (+x%)
 - Volume que ele perde: `V × (1 − (1+x)^e)`.
-- Para onde vai a perda: defina frações para cada vizinho (por exemplo, 30% para o multipack, 20% para o menor, 50% sai da marca) em 3 cenários.
+- Para onde vai a perda, em 3 cenários:
+
+| Cenário | Vai para o vizinho maior | Vai para o vizinho menor | Sai da marca |
+|---|---|---|---|
+| Conservador | 20% | 10% | 70% |
+| Base | 30% | 20% | 50% |
+| Otimista | 40% | 25% | 35% |
+
 - **Δ margem** = ganho de preço sobre o volume que fica − margem do volume perdido + margem do volume que migra para os vizinhos.
 
 ## Combinar

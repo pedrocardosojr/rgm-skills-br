@@ -1,7 +1,7 @@
 <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 905' width='1100' height='905' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
 <rect width='1100' height='905' rx='12' fill='#fcfcfb'/>
 <text x='48' y='44' font-size='24' font-weight='700' fill='#0b0b0b'>15 de 27 promoções destroem margem; nenhuma comprovadamente se paga</text>
-<text x='48' y='74' font-size='15' fill='#52514e'>Resultado de cada evento em R$ mil (margem extra − canibalização − pull-forward − verba). Investimento total R$ 1,00 mi; resultado R$ −0,56 mi.</text>
+<text x='48' y='74' font-size='15' fill='#52514e'>Resultado de cada evento em R$ mil (margem extra − canibalização − pull-forward − verba). Investimento total R$ 1,00 mi; resultado R$ −0,59 mi.</text>
 <text x='48' y='96' font-size='15' fill='#52514e'><tspan fill='#e34948' font-weight='700'>Vermelho</tspan>: perda maior que o ruído. <tspan fill='#8a8984' font-weight='700'>Cinza</tspan>: dentro do ruído (traço = faixa de 95%).</text>
 <line x1='420.0' x2='420.0' y1='152' y2='835' stroke='#e4e3df' stroke-width='1'/>
 <text x='420.0' y='146' font-size='11' fill='#52514e' text-anchor='middle'>−100</text>
@@ -22,9 +22,9 @@
 <line x1='450.2' x2='558.2' y1='172.5' y2='172.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
 <text x='444.2' y='176' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−81</text>
 <text x='400' y='201' font-size='12' fill='#0b0b0b' text-anchor='end'>E17 · Refri 2 L · Atacarejo · TPR 20%</text>
-<rect x='585.6' y='189' width='288.3' height='17' rx='3' fill='#e34948'/>
-<line x1='545.4' x2='625.7' y1='197.5' y2='197.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='539.4' y='201' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−64</text>
+<rect x='583.7' y='189' width='290.2' height='17' rx='3' fill='#e34948'/>
+<line x1='539.4' x2='628.0' y1='197.5' y2='197.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='533.4' y='201' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−64</text>
 <text x='400' y='226' font-size='12' fill='#0b0b0b' text-anchor='end'>E03 · Café 500 g · Rede nacional · Encarte+ponto 15%</text>
 <rect x='600.1' y='214' width='273.7' height='17' rx='3' fill='#e34948'/>
 <line x1='560.1' x2='640.2' y1='222.5' y2='222.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
@@ -38,13 +38,13 @@
 <line x1='592.3' x2='636.7' y1='272.5' y2='272.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
 <text x='586.3' y='276' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−57</text>
 <text x='400' y='301' font-size='12' fill='#0b0b0b' text-anchor='end'>E19 · Café 500 g · Rede nacional · Encarte+ponto 15%</text>
-<rect x='626.9' y='289' width='247.0' height='17' rx='3' fill='#e34948'/>
-<line x1='555.5' x2='698.3' y1='297.5' y2='297.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='549.5' y='301' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−54</text>
+<rect x='619.0' y='289' width='254.9' height='17' rx='3' fill='#e34948'/>
+<line x1='548.1' x2='689.8' y1='297.5' y2='297.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='542.1' y='301' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−56</text>
 <text x='400' y='326' font-size='12' fill='#0b0b0b' text-anchor='end'>E10 · Café 500 g · Atacarejo · TPR 18%</text>
-<rect x='672.8' y='314' width='201.0' height='17' rx='3' fill='#e34948'/>
-<line x1='576.1' x2='769.5' y1='322.5' y2='322.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='570.1' y='326' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−44</text>
+<rect x='654.9' y='314' width='219.0' height='17' rx='3' fill='#e34948'/>
+<line x1='560.3' x2='749.4' y1='322.5' y2='322.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='554.3' y='326' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−48</text>
 <text x='400' y='351' font-size='12' fill='#0b0b0b' text-anchor='end'>E02 · Refri lata · Rede nacional · Encarte 12%</text>
 <rect x='743.9' y='339' width='129.9' height='17' rx='3' fill='#e34948'/>
 <line x1='715.6' x2='772.3' y1='347.5' y2='347.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
@@ -61,68 +61,68 @@
 <rect x='819.1' y='414' width='54.7' height='17' rx='3' fill='#e34948'/>
 <line x1='794.7' x2='843.5' y1='422.5' y2='422.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
 <text x='788.7' y='426' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−12</text>
-<text x='400' y='451' font-size='12' fill='#52514e' text-anchor='end'>E06 · Café 250 g · Distribuidor · TPR 10%</text>
-<rect x='836.4' y='439' width='37.4' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='798.4' x2='874.4' y1='447.5' y2='447.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='792.4' y='451' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−8</text>
-<text x='400' y='476' font-size='12' fill='#52514e' text-anchor='end'>E22 · Café 1 kg · Rede nacional · Encarte 10%</text>
-<rect x='839.4' y='464' width='34.4' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='754.2' x2='924.6' y1='472.5' y2='472.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='748.2' y='476' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−8</text>
+<text x='400' y='451' font-size='12' fill='#52514e' text-anchor='end'>E22 · Café 1 kg · Rede nacional · Encarte 10%</text>
+<rect x='823.7' y='439' width='50.1' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='763.6' x2='883.9' y1='447.5' y2='447.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='757.6' y='451' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−11</text>
+<text x='400' y='476' font-size='12' fill='#52514e' text-anchor='end'>E06 · Café 250 g · Distribuidor · TPR 10%</text>
+<rect x='836.4' y='464' width='37.4' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='798.4' x2='874.4' y1='472.5' y2='472.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='792.4' y='476' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−8</text>
 <text x='400' y='501' font-size='12' fill='#0b0b0b' text-anchor='end'>E12 · Biscoito 130 g · Rede nacional · Encarte 15%</text>
-<rect x='840.3' y='489' width='33.5' height='17' rx='3' fill='#e34948'/>
-<line x1='821.7' x2='859.0' y1='497.5' y2='497.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='815.7' y='501' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−7</text>
-<text x='400' y='526' font-size='12' fill='#52514e' text-anchor='end'>E15 · Refri lata · Distribuidor · TPR 10%</text>
-<rect x='842.5' y='514' width='31.3' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='809.3' x2='875.8' y1='522.5' y2='522.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='803.3' y='526' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−7</text>
-<text x='400' y='551' font-size='12' fill='#0b0b0b' text-anchor='end'>E04 · Biscoito 130 g · Super regional · Leve 3 pague 2 25%</text>
-<rect x='842.8' y='539' width='31.0' height='17' rx='3' fill='#e34948'/>
-<line x1='825.1' x2='860.5' y1='547.5' y2='547.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='819.1' y='551' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−7</text>
-<text x='400' y='576' font-size='12' fill='#52514e' text-anchor='end'>E16 · Café 250 g · Rede nacional · Encarte 15%</text>
-<rect x='850.8' y='564' width='23.1' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='785.2' x2='916.3' y1='572.5' y2='572.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='779.2' y='576' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−5</text>
-<text x='400' y='601' font-size='12' fill='#0b0b0b' text-anchor='end'>E23 · Biscoito 3x130 g · Super regional · TPR 10%</text>
-<rect x='856.3' y='589' width='17.6' height='17' rx='3' fill='#e34948'/>
-<line x1='841.5' x2='871.0' y1='597.5' y2='597.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='835.5' y='601' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−4</text>
+<rect x='838.1' y='489' width='35.7' height='17' rx='3' fill='#e34948'/>
+<line x1='823.3' x2='852.9' y1='497.5' y2='497.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='817.3' y='501' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−8</text>
+<text x='400' y='526' font-size='12' fill='#52514e' text-anchor='end'>E16 · Café 250 g · Rede nacional · Encarte 15%</text>
+<rect x='839.3' y='514' width='34.5' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='791.8' x2='886.9' y1='522.5' y2='522.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='785.8' y='526' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−8</text>
+<text x='400' y='551' font-size='12' fill='#52514e' text-anchor='end'>E15 · Refri lata · Distribuidor · TPR 10%</text>
+<rect x='842.5' y='539' width='31.3' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='809.3' x2='875.8' y1='547.5' y2='547.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='803.3' y='551' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−7</text>
+<text x='400' y='576' font-size='12' fill='#0b0b0b' text-anchor='end'>E04 · Biscoito 130 g · Super regional · Leve 3 pague 2 25%</text>
+<rect x='842.8' y='564' width='31.0' height='17' rx='3' fill='#e34948'/>
+<line x1='825.1' x2='860.5' y1='572.5' y2='572.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='819.1' y='576' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−7</text>
+<text x='400' y='601' font-size='12' fill='#52514e' text-anchor='end'>E08 · Café 1 kg · Atacarejo · TPR 12%</text>
+<rect x='851.9' y='589' width='22.0' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='775.4' x2='928.4' y1='597.5' y2='597.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='769.4' y='601' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−5</text>
 <text x='400' y='626' font-size='12' fill='#0b0b0b' text-anchor='end'>E14 · Biscoito 3x130 g · Rede nacional · Ponto extra 8%</text>
-<rect x='858.5' y='614' width='15.4' height='17' rx='3' fill='#e34948'/>
-<line x1='845.6' x2='871.4' y1='622.5' y2='622.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='839.6' y='626' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−3</text>
-<text x='400' y='651' font-size='12' fill='#52514e' text-anchor='end'>E21 · Biscoito 130 g · Distribuidor · TPR 12%</text>
-<rect x='859.5' y='639' width='14.3' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='840.6' x2='878.5' y1='647.5' y2='647.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='834.6' y='651' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−3</text>
-<text x='400' y='676' font-size='12' fill='#52514e' text-anchor='end'>E07 · Refri 600 ml · Super regional · Encarte 15%</text>
-<rect x='862.6' y='664' width='11.2' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='829.2' x2='896.0' y1='672.5' y2='672.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='823.2' y='676' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−2</text>
-<text x='400' y='701' font-size='12' fill='#52514e' text-anchor='end'>E26 · Refri lata · Rede nacional · Encarte+ponto 15%</text>
-<rect x='862.8' y='689' width='11.0' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='831.2' x2='894.4' y1='697.5' y2='697.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='825.2' y='701' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−2</text>
-<text x='400' y='726' font-size='12' fill='#52514e' text-anchor='end'>E05 · Biscoito 3x130 g · Atacarejo · TPR 10%</text>
-<rect x='864.6' y='714' width='9.3' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='851.1' x2='878.1' y1='722.5' y2='722.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='845.1' y='726' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−2</text>
-<text x='400' y='751' font-size='12' fill='#52514e' text-anchor='end'>E09 · Biscoito 90 g · Distribuidor · TPR 15%</text>
-<rect x='865.6' y='739' width='8.2' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='840.3' x2='890.9' y1='747.5' y2='747.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='834.3' y='751' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−2</text>
-<text x='400' y='776' font-size='12' fill='#52514e' text-anchor='end'>E18 · Biscoito 90 g · Atacarejo · TPR 12%</text>
-<rect x='873.8' y='764' width='2.0' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='861.7' x2='890.0' y1='772.5' y2='772.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='896.0' y='776' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='start'>0</text>
-<text x='400' y='801' font-size='12' fill='#52514e' text-anchor='end'>E08 · Café 1 kg · Atacarejo · TPR 12%</text>
-<rect x='873.8' y='789' width='7.2' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='774.0' x2='988.1' y1='797.5' y2='797.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='994.1' y='801' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='start'>2</text>
-<text x='400' y='826' font-size='12' fill='#52514e' text-anchor='end'>E20 · Refri 600 ml · Atacarejo · TPR 12%</text>
-<rect x='873.8' y='814' width='23.1' height='17' rx='3' fill='#b9b8b2'/>
-<line x1='796.0' x2='997.9' y1='822.5' y2='822.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
-<text x='1003.9' y='826' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='start'>5</text>
+<rect x='855.7' y='614' width='18.2' height='17' rx='3' fill='#e34948'/>
+<line x1='844.4' x2='867.0' y1='622.5' y2='622.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='838.4' y='626' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−4</text>
+<text x='400' y='651' font-size='12' fill='#0b0b0b' text-anchor='end'>E23 · Biscoito 3x130 g · Super regional · TPR 10%</text>
+<rect x='856.3' y='639' width='17.6' height='17' rx='3' fill='#e34948'/>
+<line x1='841.5' x2='871.0' y1='647.5' y2='647.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='835.5' y='651' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−4</text>
+<text x='400' y='676' font-size='12' fill='#52514e' text-anchor='end'>E21 · Biscoito 130 g · Distribuidor · TPR 12%</text>
+<rect x='859.5' y='664' width='14.3' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='840.6' x2='878.5' y1='672.5' y2='672.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='834.6' y='676' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−3</text>
+<text x='400' y='701' font-size='12' fill='#52514e' text-anchor='end'>E07 · Refri 600 ml · Super regional · Encarte 15%</text>
+<rect x='862.6' y='689' width='11.2' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='829.2' x2='896.0' y1='697.5' y2='697.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='823.2' y='701' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−2</text>
+<text x='400' y='726' font-size='12' fill='#52514e' text-anchor='end'>E26 · Refri lata · Rede nacional · Encarte+ponto 15%</text>
+<rect x='862.8' y='714' width='11.0' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='831.2' x2='894.4' y1='722.5' y2='722.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='825.2' y='726' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−2</text>
+<text x='400' y='751' font-size='12' fill='#52514e' text-anchor='end'>E05 · Biscoito 3x130 g · Atacarejo · TPR 10%</text>
+<rect x='864.6' y='739' width='9.3' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='851.1' x2='878.1' y1='747.5' y2='747.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='845.1' y='751' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−2</text>
+<text x='400' y='776' font-size='12' fill='#52514e' text-anchor='end'>E09 · Biscoito 90 g · Distribuidor · TPR 15%</text>
+<rect x='865.6' y='764' width='8.2' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='840.3' x2='890.9' y1='772.5' y2='772.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='834.3' y='776' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−2</text>
+<text x='400' y='801' font-size='12' fill='#52514e' text-anchor='end'>E20 · Refri 600 ml · Atacarejo · TPR 12%</text>
+<rect x='867.8' y='789' width='6.1' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='787.2' x2='948.4' y1='797.5' y2='797.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='781.2' y='801' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='end'>−1</text>
+<text x='400' y='826' font-size='12' fill='#52514e' text-anchor='end'>E18 · Biscoito 90 g · Atacarejo · TPR 12%</text>
+<rect x='873.8' y='814' width='2.0' height='17' rx='3' fill='#b9b8b2'/>
+<line x1='861.7' x2='890.0' y1='822.5' y2='822.5' stroke='#0b0b0b' stroke-width='1.2' opacity='0.55'/>
+<text x='896.0' y='826' font-size='11.5' font-weight='600' fill='#0b0b0b' text-anchor='start'>0</text>
 <text x='48' y='881' font-size='11' fill='#52514e'>Conclusivo = |resultado| maior que 1,96 desvio-padrão do ruído semanal. Valores sem impostos. Dados fictícios.</text></svg>

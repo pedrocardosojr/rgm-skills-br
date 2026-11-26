@@ -27,7 +27,7 @@ Por categoria e canal, do menor para o maior tamanho:
 
 ## 3. Passos
 
-1. Montar a escada por categoria, num canal de referência (o de maior volume ou o de preço mais limpo), e conferir nos outros canais.
+1. Montar a escada por categoria num canal de referência e conferir nos outros. **Padrão: a maior rede de supermercados (autosserviço)**, porque é o preço que o shopper usa como régua; declare a escolha. Use a **última lista vigente**, sem desconto promocional, e a margem de bolso **de todos os canais** do SKU.
 2. Aplicar as regras de `references/regras-decisao.md` (PP1 a PP7).
 3. Para cada problema, desenhar **2 ou 3 jogadas** (lançar, repreçar, tirar ou mudar conteúdo) e simular com `references/simulacao.md`, sempre em três cenários de origem do volume.
 4. Recomendar a jogada com o melhor resultado no cenário base que **não seja negativa no conservador**. Se todas forem negativas no conservador, a recomendação é testar, não lançar.

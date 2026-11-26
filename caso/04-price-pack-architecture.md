@@ -10,7 +10,7 @@
 
 ## O que a escada mostra
 
-- **Refrigerante:** o 2 L tem **75% dos litros** e paga **R$ 0,80 por litro**, contra R$ 2,04 do 600 ml e R$ 2,29 da lata. Do 600 ml para o 2 L, o litro fica 46,6% mais barato e o conteúdo mais que triplica: não existe degrau no meio. Na prateleira, o 2 L já passou de R$ 9,99 (R$ 10,78).
+- **Refrigerante:** o 2 L tem **75% dos litros** e paga **R$ 0,80 por litro**, contra R$ 2,04 do 600 ml e R$ 2,29 da lata. Do 600 ml para o 2 L, o litro fica 46,6% mais barato e o conteúdo mais que triplica: não existe degrau no meio. Na prateleira, o 2 L já passou de R$ 9,99 (R$ 10,78). Pela regra PP6, o alerta também acende no café 250 g (R$ 15,57), no café 1 kg (R$ 54,33) e no biscoito 90 g (R$ 3,20); com preço estimado, isso pede coleta em loja antes de virar ação.
 - **Biscoito:** o multipack 3x130 g é só **3,8% mais barato por kg** que o pacote avulso e ainda tem a menor margem por kg da categoria (R$ 4,88 contra R$ 5,57 do 130 g).
 - **Café:** a escada é **saudável**. O kg fica 8,0% e 5,2% mais barato a cada degrau, e o 500 g concentra 58% do volume.
 
