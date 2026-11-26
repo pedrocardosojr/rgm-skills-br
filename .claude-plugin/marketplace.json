@@ -1,7 +1,13 @@
 {
   "name": "rgm-skills-br",
-  "owner": { "name": "Pedro Cardoso Jr" },
+  "owner": {
+    "name": "Pedro Cardoso Jr"
+  },
   "plugins": [
-    { "name": "rgm-br", "source": "./", "description": "RGM para bens de consumo no Brasil, com o módulo da reforma tributária (CBS/IBS)." }
+    {
+      "name": "rgm-br",
+      "source": "./",
+      "description": "RGM para bens de consumo no Brasil: 7 skills (waterfall, promoção, escada de preço, elasticidade, mix e ABC, sortimento e reforma CBS/IBS), com dados e casos de exemplo."
+    }
   ]
 }

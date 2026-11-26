@@ -2,7 +2,7 @@
 
 > **EN.** Revenue Growth Management skills for consumer goods in Brazil, packaged as a Claude Code plugin: price waterfall, promotion ROI, price-pack architecture, price elasticity estimation, price-volume-mix and ABC analysis, assortment and demand transfer, and pricing under Brazil's 2026-2033 tax reform (CBS/IBS). Ships with a fictional CPG company's dataset and an end-to-end case. Content in Portuguese.
 
-[![Painel-resumo dos quatro casos](caso/img/00-painel-resumo.svg)](#caso)
+[![Painel-resumo dos sete casos](caso/img/00-painel-resumo.svg)](#caso)
 
 Skills de **Revenue Growth Management** para bens de consumo no Brasil, em um plugin para Claude Code. O pacote inclui sete análises que um time de RGM faz toda semana, os dados de uma indústria fictícia e um caso resolvido do começo ao fim.
 
@@ -27,7 +27,7 @@ No Claude Code:
 A pasta [`dados/`](dados/) tem 52 semanas da **Vale Alto Alimentos**, uma empresa fictícia com café, biscoito e refrigerante, 9 SKUs, 4 canais e 27 promoções. O [dicionário](dados/DICIONARIO.md) explica cada arquivo. Para regerar os dados: `python3 scripts/gerar_dados.py`. Para reestimar a elasticidade: `python3 scripts/estimar_elasticidade.py` (requer numpy). Os dados de ano anterior e de sell-out por loja (200 lojas, com teste de descontinuação) vêm de `python3 scripts/gerar_dados_mix_sortimento.py`.
 
 ## Caso
-As quatro análises aplicadas à Vale Alto, cada uma com o número-chave, os gráficos e as recomendações em R$.
+As sete análises aplicadas à Vale Alto, cada uma com o número-chave, os gráficos e as recomendações em R$. Somadas, valem **até R$ 2,73 mi por ano de margem de bolso (+11,3%)**, mais R$ 2,45 mi protegidos na reforma.
 
 1. [Price waterfall](caso/01-price-waterfall.md): R$ 15,6 mi (19,8%) da lista não chegam ao bolso, e R$ 0,77 mi por ano são recuperáveis.
 2. [Preço com CBS/IBS](caso/02-preco-cbs-ibs.md): R$ 4,25 mi por ano ficam em disputa em 2033, e o plano garante pelo menos R$ 2,45 mi em qualquer cenário.
