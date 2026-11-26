@@ -19,7 +19,7 @@ Ela tem 3 categorias, 9 SKUs, 4 canais e 27 eventos promocionais.
 ## Convenções
 - **Preço de lista** (`preco_lista_unit`) inclui ICMS e PIS/Cofins, que são calculados "por dentro". O IPI é cobrado por fora.
 - **Ordem dos descontos na nota:** primeiro o on-invoice do canal (mais o especial, se houver), depois o desconto promocional.
-- **Off-invoice** (rebate, verba de contrato, bonificação e frete) é um percentual sobre o valor faturado. A verba fixa de promoção vem em R$, por evento.
+- **Off-invoice** (rebate, verba de contrato, bonificação e frete) é um percentual sobre o preço de nota, sem impostos. A verba fixa de promoção vem em R$, por evento.
 - **Custo financeiro do prazo** = taxa mensal × prazo em dias ÷ 30, sobre o valor faturado.
 - **Distribuidor:** `markup_revenda_pct` é a margem do distribuidor e `markup_varejo_final_pct` é a do pequeno varejo que compra dele.
 - **`revenda_no_simples_pct`** é a fatia da revenda no Simples Nacional, que aproveita pouco crédito de CBS/IBS. Isso pesa no repasse da reforma.
