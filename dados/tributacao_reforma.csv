@@ -1,0 +1,4 @@
+categoria,regime,reducao_aliquota_pct,imposto_seletivo,base_legal
+Café,Cesta básica nacional,100,não,"LC 214/2025, Anexo I (conferir NCM 0901.2)"
+Biscoito,Alíquota padrão,0,não,"LC 214/2025, regra geral"
+Refrigerante,Alíquota padrão + Imposto Seletivo,0,sim,"LC 214/2025, IS sobre bebidas açucaradas; alíquota em lei ordinária"

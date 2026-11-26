@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+# Dados reais e material da consultoria nunca entram neste repo
+privado/
+*_real.csv

@@ -1,0 +1,7 @@
+{
+  "name": "rgm-skills-br",
+  "owner": { "name": "Pedro Cardoso Jr" },
+  "plugins": [
+    { "name": "rgm-br", "source": "./", "description": "RGM para bens de consumo no Brasil, com o módulo da reforma tributária (CBS/IBS)." }
+  ]
+}

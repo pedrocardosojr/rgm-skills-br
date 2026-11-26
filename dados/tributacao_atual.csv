@@ -1,0 +1,4 @@
+categoria,icms_pct,pis_cofins_pct,ipi_pct,observacao
+Café,7.0,0.0,0.0,ICMS reduzido de cesta (varia por estado); PIS/Cofins zero (Lei 10.925/2004)
+Biscoito,18.0,9.25,0.0,"Regime geral, sem substituição tributária"
+Refrigerante,18.0,9.25,4.0,Simplificado: sem ST e sem regime monofásico

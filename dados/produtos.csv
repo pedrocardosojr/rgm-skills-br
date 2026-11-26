@@ -1,0 +1,10 @@
+sku,descricao,categoria,marca,tamanho,unidade,conteudo_kg_ou_l,embalagem,preco_lista_inicial,custo_variavel_unit,elasticidade_preco
+CAF250,Café torrado e moído 250 g,Café,Vale Alto,250,g,0.25,Almofada,11.90,5.80,-1.4
+CAF500,Café torrado e moído 500 g,Café,Vale Alto,500,g,0.5,Almofada,21.90,10.40,-1.8
+CAF1K,Café torrado e moído 1 kg,Café,Vale Alto,1000,g,1.0,Almofada,41.50,19.60,-2.0
+BIS090,Biscoito recheado chocolate 90 g,Biscoito,Vale Alto,90,g,0.09,Pacote,2.49,0.95,-2.2
+BIS130,Biscoito recheado chocolate 130 g,Biscoito,Vale Alto,130,g,0.13,Pacote,3.29,1.25,-2.0
+BIS390,Biscoito recheado chocolate multipack 3x130 g,Biscoito,Vale Alto,390,g,0.39,Multipack,9.49,3.80,-1.6
+REF350,Refrigerante cola lata 350 ml,Refrigerante,Vale Alto,350,ml,0.35,Lata,3.19,1.15,-1.5
+REF600,Refrigerante cola PET 600 ml,Refrigerante,Vale Alto,600,ml,0.6,PET,4.49,1.55,-1.8
+REF2L,Refrigerante cola PET 2 L,Refrigerante,Vale Alto,2000,ml,2.0,PET,7.99,3.10,-2.4

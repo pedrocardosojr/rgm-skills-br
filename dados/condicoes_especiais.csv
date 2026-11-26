@@ -1,0 +1,5 @@
+canal,sku,tipo,pct_adicional,motivo
+ATC,REF2L,bonificacao,6.0,Acordo de volume de verão renovado sem revisão
+DIS,CAF500,on_invoice,3.0,Desconto extra para combater marca regional
+DIS,CAF1K,on_invoice,3.0,Desconto extra para combater marca regional
+RNA,BIS390,verba_contrato,4.0,"Enxoval de lançamento do multipack, nunca encerrado"
