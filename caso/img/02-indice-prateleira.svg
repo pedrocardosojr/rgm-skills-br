@@ -1,0 +1,65 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 520' width='1100' height='520' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect width='1100' height='520' rx='12' fill='#fcfcfb'/>
+<text x='48' y='44' font-size='24' font-weight='700' fill='#0b0b0b'>Sem ação, a prateleira cai até 8% até 2033, e o biscoito já cai 4,8% em 2027</text>
+<text x='48' y='74' font-size='15' fill='#52514e'>Índice do preço de prateleira (2025 = 100) com o preço líquido da indústria mantido. Varejo com crédito pleno (Atacarejo).</text>
+<line x1='90' x2='960' y1='440.0' y2='440.0' stroke='#e4e3df'/>
+<text x='80' y='444.0' font-size='11' fill='#52514e' text-anchor='end'>90</text>
+<line x1='90' x2='960' y1='387.3' y2='387.3' stroke='#e4e3df'/>
+<text x='80' y='391.3' font-size='11' fill='#52514e' text-anchor='end'>92</text>
+<line x1='90' x2='960' y1='334.5' y2='334.5' stroke='#e4e3df'/>
+<text x='80' y='338.5' font-size='11' fill='#52514e' text-anchor='end'>94</text>
+<line x1='90' x2='960' y1='281.8' y2='281.8' stroke='#e4e3df'/>
+<text x='80' y='285.8' font-size='11' fill='#52514e' text-anchor='end'>96</text>
+<line x1='90' x2='960' y1='229.1' y2='229.1' stroke='#e4e3df'/>
+<text x='80' y='233.1' font-size='11' fill='#52514e' text-anchor='end'>98</text>
+<line x1='90' x2='960' y1='176.4' y2='176.4' stroke='#e4e3df'/>
+<text x='80' y='180.4' font-size='11' fill='#52514e' text-anchor='end'>100</text>
+<text x='90.0' y='462' font-size='12' fill='#52514e' text-anchor='middle'>2025</text>
+<text x='198.8' y='462' font-size='12' fill='#52514e' text-anchor='middle'>2026</text>
+<text x='307.5' y='462' font-size='12' fill='#52514e' text-anchor='middle'>2027</text>
+<text x='416.2' y='462' font-size='12' fill='#52514e' text-anchor='middle'>2028</text>
+<text x='525.0' y='462' font-size='12' fill='#52514e' text-anchor='middle'>2029</text>
+<text x='633.8' y='462' font-size='12' fill='#52514e' text-anchor='middle'>2030</text>
+<text x='742.5' y='462' font-size='12' fill='#52514e' text-anchor='middle'>2031</text>
+<text x='851.2' y='462' font-size='12' fill='#52514e' text-anchor='middle'>2032</text>
+<text x='960.0' y='462' font-size='12' fill='#52514e' text-anchor='middle'>2033</text>
+<rect x='144.4' y='150' width='108.8' height='290' fill='#f0efec'/>
+<text x='198.8' y='400' font-size='11' fill='#52514e' text-anchor='middle'>2026: teste</text>
+<text x='198.8' y='414' font-size='11' fill='#52514e' text-anchor='middle'>neutro</text>
+<text x='313.5' y='432' font-size='11' fill='#52514e'>PIS/Cofins saem, CBS entra</text>
+<text x='531.0' y='416' font-size='11' fill='#52514e'>ICMS começa a cair</text>
+<polyline points='90.0,176.4 198.8,176.4 307.5,176.4 416.2,176.4 525.0,196.1 633.8,215.5 742.5,234.6 851.2,253.4 960.0,360.9' fill='none' stroke='#2a78d6' stroke-width='2.5' stroke-linejoin='round'/>
+<circle cx='90.0' cy='176.4' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='198.8' cy='176.4' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='307.5' cy='176.4' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='416.2' cy='176.4' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='525.0' cy='196.1' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='633.8' cy='215.5' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='742.5' cy='234.6' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='851.2' cy='253.4' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='960.0' cy='360.9' r='4' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='972.0' y='364.9' font-size='13' font-weight='600' fill='#0b0b0b'>Café 93,0</text>
+<polyline points='90.0,176.4 198.8,176.4 307.5,303.1 416.2,303.1 525.0,321.3 633.8,335.5 742.5,347.6 851.2,358.0 960.0,386.5' fill='none' stroke='#eb6834' stroke-width='2.5' stroke-linejoin='round'/>
+<circle cx='90.0' cy='176.4' r='4' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='198.8' cy='176.4' r='4' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='307.5' cy='303.1' r='4' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='416.2' cy='303.1' r='4' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='525.0' cy='321.3' r='4' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='633.8' cy='335.5' r='4' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='742.5' cy='347.6' r='4' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='851.2' cy='358.0' r='4' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='960.0' cy='386.5' r='4' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<text x='972.0' y='396.5' font-size='13' font-weight='600' fill='#0b0b0b'>Biscoito 92,0</text>
+<polyline points='90.0,176.4 198.8,176.4 307.5,196.0 416.2,196.0 525.0,215.0 633.8,229.7 742.5,242.5 851.2,253.2 960.0,283.0' fill='none' stroke='#1baf7a' stroke-width='2.5' stroke-linejoin='round'/>
+<circle cx='90.0' cy='176.4' r='4' fill='#1baf7a' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='198.8' cy='176.4' r='4' fill='#1baf7a' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='307.5' cy='196.0' r='4' fill='#1baf7a' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='416.2' cy='196.0' r='4' fill='#1baf7a' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='525.0' cy='215.0' r='4' fill='#1baf7a' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='633.8' cy='229.7' r='4' fill='#1baf7a' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='742.5' cy='242.5' r='4' fill='#1baf7a' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='851.2' cy='253.2' r='4' fill='#1baf7a' stroke='#fcfcfb' stroke-width='2'/>
+<circle cx='960.0' cy='283.0' r='4' fill='#1baf7a' stroke='#fcfcfb' stroke-width='2'/>
+<text x='972.0' y='287.0' font-size='13' font-weight='600' fill='#0b0b0b'>Refrigerante 96,0</text>
+<text x='315.5' y='321.1' font-size='12' font-weight='600' fill='#0b0b0b'>95,2</text>
+<text x='48' y='500' font-size='11' fill='#52514e'>Premissas: CBS + IBS de referência 26,5%; IS de 10% no refrigerante; carga atual ilustrativa sem ST nem benefícios. Dados fictícios.</text></svg>
