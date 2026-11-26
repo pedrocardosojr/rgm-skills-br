@@ -14,6 +14,11 @@ Ela tem 3 categorias, 9 SKUs, 4 canais e 27 eventos promocionais.
 | `promocoes.csv` | Evento | SKU, canal, início, duração, mecânica, desconto e verba fixa paga ao cliente |
 | `tributacao_atual.csv` | Categoria | ICMS, PIS/Cofins e IPI no sistema atual (ilustrativo) |
 | `tributacao_reforma.csv` | Categoria | Regime na reforma: cesta básica, alíquota padrão e Imposto Seletivo |
+| `ano_anterior.csv` | SKU × canal | Unidades, preço líquido e custo unitário do ano anterior (para a ponte de preço, volume e mix) |
+| `lojas.csv` | Loja | 200 lojas: canal (inclui o varejo tradicional atendido pelo distribuidor), porte e cidade |
+| `sellout_lojas.csv` | Loja × SKU × mês | Sell-out de 12 meses |
+| `testes_descontinuacao.csv` | Loja × SKU | Lojas em que o SKU saiu em junho de 2026 (teste de descontinuação) |
+| `elasticidade_estimada.csv` | SKU × canal | Resultado da skill de elasticidade |
 | `cronograma_transicao.csv` | Ano (2026-2033) | Alíquotas de CBS e IBS e fatores de PIS/Cofins, IPI e ICMS em cada ano |
 
 ## Convenções

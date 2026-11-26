@@ -1,40 +1,49 @@
-<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 690' width='1100' height='690' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
-<rect width='1100' height='690' rx='12' fill='#fcfcfb'/>
-<text x='48' y='48' font-size='15' font-weight='600' fill='#52514e'>VALE ALTO ALIMENTOS · EMPRESA FICTÍCIA · 52 SEMANAS</text>
-<text x='48' y='86' font-size='28' font-weight='700' fill='#0b0b0b'>R$ 1,90 mi por ano de margem de bolso (+7,9%),</text>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 760' width='1100' height='760' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect width='1100' height='760' rx='12' fill='#fcfcfb'/>
+<text x='48' y='48' font-size='15' font-weight='600' fill='#52514e'>VALE ALTO ALIMENTOS · EMPRESA FICTÍCIA · 7 SKILLS DE RGM PARA CLAUDE CODE</text>
+<text x='48' y='86' font-size='28' font-weight='700' fill='#0b0b0b'>Até R$ 2,73 mi por ano de margem de bolso (+11,3%),</text>
 <text x='48' y='120' font-size='28' font-weight='700' fill='#0b0b0b'>mais R$ 2,45 mi protegidos na reforma tributária</text>
-<rect x='48' y='150' width='492' height='210' rx='10' fill='#ffffff' stroke='#e4e3df'/>
-<rect x='48' y='150' width='6' height='210' rx='3' fill='#2a78d6'/>
-<text x='76' y='186' font-size='14' font-weight='600' fill='#52514e'>01 · Price waterfall</text>
-<text x='76' y='236' font-size='40' font-weight='700' fill='#0b0b0b'>R$ 0,77 mi</text>
-<text x='76' y='260' font-size='14' fill='#52514e'>por ano recuperáveis</text>
-<text x='76' y='296' font-size='14' fill='#0b0b0b'>19,8% da receita a preço de lista não chega ao bolso.</text>
-<text x='76' y='316' font-size='14' fill='#0b0b0b'>Três condições fora da política e dois custos de</text>
-<text x='76' y='336' font-size='14' fill='#0b0b0b'>servir explicam a parte que dá para recuperar.</text>
-<rect x='560' y='150' width='492' height='210' rx='10' fill='#ffffff' stroke='#e4e3df'/>
-<rect x='560' y='150' width='6' height='210' rx='3' fill='#2a78d6'/>
-<text x='588' y='186' font-size='14' font-weight='600' fill='#52514e'>02 · Reforma tributária (CBS/IBS)</text>
-<text x='588' y='236' font-size='40' font-weight='700' fill='#0b0b0b'>R$ 2,45 mi</text>
-<text x='588' y='260' font-size='14' fill='#52514e'>por ano, no mínimo, em 2033</text>
-<text x='588' y='296' font-size='14' fill='#0b0b0b'>R$ 4,25 mi ficam em disputa. No varejo com crédito,</text>
-<text x='588' y='316' font-size='14' fill='#0b0b0b'>a reforma não muda o custo do cliente: sem</text>
-<text x='588' y='336' font-size='14' fill='#0b0b0b'>negociação, quem retém a queda é o varejista.</text>
-<rect x='48' y='380' width='492' height='210' rx='10' fill='#ffffff' stroke='#e4e3df'/>
-<rect x='48' y='380' width='6' height='210' rx='3' fill='#2a78d6'/>
-<text x='76' y='416' font-size='14' font-weight='600' fill='#52514e'>03 · Retorno de promoção</text>
-<text x='76' y='466' font-size='40' font-weight='700' fill='#0b0b0b'>R$ 0,51 mi</text>
-<text x='76' y='490' font-size='14' fill='#52514e'>por ano ao cortar e redesenhar</text>
-<text x='76' y='526' font-size='14' fill='#0b0b0b'>R$ 1,00 mi investido devolveu −R$ 0,59 mi.</text>
-<text x='76' y='546' font-size='14' fill='#0b0b0b'>15 de 27 eventos destroem margem com segurança</text>
-<text x='76' y='566' font-size='14' fill='#0b0b0b'>estatística; nenhum comprovadamente se paga.</text>
-<rect x='560' y='380' width='492' height='210' rx='10' fill='#ffffff' stroke='#e4e3df'/>
-<rect x='560' y='380' width='6' height='210' rx='3' fill='#2a78d6'/>
-<text x='588' y='416' font-size='14' font-weight='600' fill='#52514e'>04 · Price-pack architecture</text>
-<text x='588' y='466' font-size='40' font-weight='700' fill='#0b0b0b'>R$ 0,62 mi</text>
-<text x='588' y='490' font-size='14' fill='#52514e'>por ano no cenário base</text>
-<text x='588' y='526' font-size='14' fill='#0b0b0b'>O 2 L tem 75% dos litros e paga R$ 0,80 por litro.</text>
-<text x='588' y='546' font-size='14' fill='#0b0b0b'>Um 1,5 L abre o degrau que permite repreçar o 2 L.</text>
-<text x='588' y='566' font-size='14' fill='#0b0b0b'>Baixar o multipack perderia R$ 143 mil.</text>
-<text x='48' y='646' font-size='14' fill='#0b0b0b'><tspan font-weight='700'>O fio que liga os quatro:</tspan> o refrigerante 2 L é o maior vazamento, a promoção que só antecipa compra,</text>
-<text x='48' y='666' font-size='14' fill='#0b0b0b'>o item sem margem para o Imposto Seletivo e o tamanho que precisa de um degrau abaixo. Somas indicativas, sem dupla contagem relevante.</text>
-</svg>
+<rect x='48' y='150' width='322' height='232' rx='10' fill='#ffffff' stroke='#e4e3df'/>
+<rect x='48' y='150' width='6' height='232' rx='3' fill='#2a78d6'/>
+<text x='74' y='188' font-size='14' font-weight='600' fill='#52514e'>01 · Price waterfall</text>
+<text x='74' y='242' font-size='42' font-weight='700' fill='#0b0b0b'>R$ 0,77 mi</text>
+<text x='74' y='266' font-size='13' fill='#52514e'>por ano</text>
+<text x='74' y='310' font-size='15' fill='#0b0b0b'>19,8% da lista não chega ao</text>
+<text x='74' y='332' font-size='15' fill='#0b0b0b'>bolso; 3 condições fora da política.</text>
+<rect x='389' y='150' width='322' height='232' rx='10' fill='#ffffff' stroke='#e4e3df'/>
+<rect x='389' y='150' width='6' height='232' rx='3' fill='#2a78d6'/>
+<text x='415' y='188' font-size='14' font-weight='600' fill='#52514e'>02 · Retorno de promoção</text>
+<text x='415' y='242' font-size='42' font-weight='700' fill='#0b0b0b'>R$ 0,51 mi</text>
+<text x='415' y='266' font-size='13' fill='#52514e'>por ano</text>
+<text x='415' y='310' font-size='15' fill='#0b0b0b'>R$ 1 mi investido devolveu</text>
+<text x='415' y='332' font-size='15' fill='#0b0b0b'>−R$ 0,59 mi; 15 de 27 perdem.</text>
+<rect x='730' y='150' width='322' height='232' rx='10' fill='#ffffff' stroke='#e4e3df'/>
+<rect x='730' y='150' width='6' height='232' rx='3' fill='#2a78d6'/>
+<text x='756' y='188' font-size='14' font-weight='600' fill='#52514e'>03 · Escada de preço</text>
+<text x='756' y='242' font-size='42' font-weight='700' fill='#0b0b0b'>R$ 0,62 mi</text>
+<text x='756' y='266' font-size='13' fill='#52514e'>por ano</text>
+<text x='756' y='310' font-size='15' fill='#0b0b0b'>Um 1,5 L abre o degrau</text>
+<text x='756' y='332' font-size='15' fill='#0b0b0b'>para repreçar o 2 L.</text>
+<rect x='48' y='401' width='322' height='232' rx='10' fill='#ffffff' stroke='#e4e3df'/>
+<rect x='48' y='401' width='6' height='232' rx='3' fill='#2a78d6'/>
+<text x='74' y='439' font-size='14' font-weight='600' fill='#52514e'>04 · Mix e rentabilidade</text>
+<text x='74' y='493' font-size='42' font-weight='700' fill='#0b0b0b'>R$ 0,26 mi</text>
+<text x='74' y='517' font-size='13' fill='#52514e'>por ano</text>
+<text x='74' y='561' font-size='15' fill='#0b0b0b'>Receita +11%, lucro +7%: o custo</text>
+<text x='74' y='583' font-size='15' fill='#0b0b0b'>do café comeu o reajuste.</text>
+<rect x='389' y='401' width='322' height='232' rx='10' fill='#ffffff' stroke='#e4e3df'/>
+<rect x='389' y='401' width='6' height='232' rx='3' fill='#2a78d6'/>
+<text x='415' y='439' font-size='14' font-weight='600' fill='#52514e'>05 · Sortimento</text>
+<text x='415' y='493' font-size='42' font-weight='700' fill='#0b0b0b'>R$ 0,57 mi</text>
+<text x='415' y='517' font-size='13' fill='#52514e'>por ano</text>
+<text x='415' y='561' font-size='15' fill='#0b0b0b'>A lata é 83% incremental e</text>
+<text x='415' y='583' font-size='15' fill='#0b0b0b'>está em só 55% das lojas.</text>
+<rect x='730' y='401' width='322' height='232' rx='10' fill='#ffffff' stroke='#e4e3df'/>
+<rect x='730' y='401' width='6' height='232' rx='3' fill='#2a78d6'/>
+<text x='756' y='439' font-size='14' font-weight='600' fill='#52514e'>06 · Reforma CBS/IBS</text>
+<text x='756' y='493' font-size='42' font-weight='700' fill='#0b0b0b'>R$ 2,45 mi</text>
+<text x='756' y='517' font-size='13' fill='#52514e'>por ano, no mínimo, em 2033</text>
+<text x='756' y='561' font-size='15' fill='#0b0b0b'>R$ 4,25 mi em disputa; sem</text>
+<text x='756' y='583' font-size='15' fill='#0b0b0b'>negociação, o varejo retém a queda.</text>
+<text x='48' y='698' font-size='14' fill='#0b0b0b'><tspan font-weight='700'>Método:</tspan> regras explícitas, faixa de ruído estatístico, elasticidade estimada com pooling hierárquico (1% de desconto traz</text>
+<text x='48' y='718' font-size='14' fill='#0b0b0b'>cerca de 3,7% de volume) e teste de descontinuação com diferença em diferenças. Somas indicativas; sortimento é teto.</text></svg>

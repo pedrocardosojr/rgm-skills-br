@@ -1,7 +1,7 @@
 {
   "name": "rgm-br",
-  "version": "0.2.0",
-  "description": "Revenue Growth Management para bens de consumo no Brasil: price waterfall, retorno de promoção, price-pack architecture, elasticidade estimada e preço com CBS/IBS.",
+  "version": "0.3.0",
+  "description": "Revenue Growth Management para bens de consumo no Brasil: price waterfall, promoção, price-pack architecture, elasticidade, mix e rentabilidade (PVM, ABC), sortimento e preço com CBS/IBS.",
   "author": {
     "name": "Pedro Cardoso Jr"
   },

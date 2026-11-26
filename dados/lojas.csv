@@ -1,0 +1,201 @@
+loja,canal,porte,cidade
+L001,ATC,M,Cascavel
+L002,ATC,M,Londrina
+L003,ATC,P,Ponta Grossa
+L004,ATC,M,Cascavel
+L005,ATC,G,Londrina
+L006,ATC,G,Londrina
+L007,ATC,G,Curitiba
+L008,ATC,P,Ponta Grossa
+L009,ATC,M,Joinville
+L010,ATC,M,Cascavel
+L011,ATC,G,Ponta Grossa
+L012,ATC,G,Ponta Grossa
+L013,ATC,P,Cascavel
+L014,ATC,M,Joinville
+L015,ATC,M,Cascavel
+L016,ATC,P,Cascavel
+L017,ATC,P,Maringá
+L018,ATC,P,Maringá
+L019,ATC,M,Maringá
+L020,ATC,M,Maringá
+L021,ATC,G,Cascavel
+L022,ATC,M,Ponta Grossa
+L023,ATC,M,Ponta Grossa
+L024,ATC,P,Cascavel
+L025,ATC,M,Joinville
+L026,ATC,P,Ponta Grossa
+L027,ATC,M,Cascavel
+L028,ATC,M,Curitiba
+L029,ATC,M,Joinville
+L030,ATC,G,Cascavel
+L031,ATC,P,Curitiba
+L032,ATC,M,Londrina
+L033,ATC,P,Joinville
+L034,ATC,G,Curitiba
+L035,ATC,M,Joinville
+L036,RNA,M,Londrina
+L037,RNA,M,Maringá
+L038,RNA,G,Cascavel
+L039,RNA,M,Londrina
+L040,RNA,M,Curitiba
+L041,RNA,P,Londrina
+L042,RNA,M,Curitiba
+L043,RNA,P,Londrina
+L044,RNA,P,Cascavel
+L045,RNA,M,Curitiba
+L046,RNA,P,Ponta Grossa
+L047,RNA,M,Joinville
+L048,RNA,M,Cascavel
+L049,RNA,P,Joinville
+L050,RNA,M,Cascavel
+L051,RNA,P,Curitiba
+L052,RNA,P,Joinville
+L053,RNA,M,Maringá
+L054,RNA,M,Cascavel
+L055,RNA,M,Ponta Grossa
+L056,RNA,M,Joinville
+L057,RNA,P,Joinville
+L058,RNA,M,Maringá
+L059,RNA,P,Londrina
+L060,RNA,M,Joinville
+L061,RNA,M,Ponta Grossa
+L062,RNA,G,Joinville
+L063,RNA,M,Joinville
+L064,RNA,M,Londrina
+L065,RNA,P,Curitiba
+L066,RNA,P,Curitiba
+L067,RNA,G,Curitiba
+L068,RNA,P,Maringá
+L069,RNA,G,Maringá
+L070,RNA,P,Maringá
+L071,RNA,M,Joinville
+L072,RNA,P,Ponta Grossa
+L073,RNA,M,Curitiba
+L074,RNA,G,Curitiba
+L075,RNA,G,Curitiba
+L076,RNA,M,Maringá
+L077,RNA,M,Londrina
+L078,RNA,M,Maringá
+L079,RNA,P,Maringá
+L080,RNA,P,Londrina
+L081,RNA,M,Maringá
+L082,RNA,M,Cascavel
+L083,RNA,M,Curitiba
+L084,RNA,M,Joinville
+L085,RNA,M,Joinville
+L086,RNA,G,Ponta Grossa
+L087,RNA,M,Ponta Grossa
+L088,RNA,M,Maringá
+L089,RNA,M,Joinville
+L090,RNA,G,Londrina
+L091,RNA,M,Joinville
+L092,RNA,G,Maringá
+L093,RNA,M,Joinville
+L094,RNA,G,Ponta Grossa
+L095,RNA,G,Maringá
+L096,SRG,M,Maringá
+L097,SRG,M,Londrina
+L098,SRG,G,Maringá
+L099,SRG,P,Londrina
+L100,SRG,P,Ponta Grossa
+L101,SRG,M,Joinville
+L102,SRG,M,Ponta Grossa
+L103,SRG,G,Ponta Grossa
+L104,SRG,M,Maringá
+L105,SRG,M,Joinville
+L106,SRG,P,Cascavel
+L107,SRG,P,Cascavel
+L108,SRG,G,Cascavel
+L109,SRG,M,Ponta Grossa
+L110,SRG,P,Maringá
+L111,SRG,M,Joinville
+L112,SRG,M,Joinville
+L113,SRG,M,Ponta Grossa
+L114,SRG,M,Ponta Grossa
+L115,SRG,P,Maringá
+L116,SRG,P,Cascavel
+L117,SRG,M,Londrina
+L118,SRG,M,Joinville
+L119,SRG,M,Joinville
+L120,SRG,M,Londrina
+L121,SRG,M,Londrina
+L122,SRG,M,Joinville
+L123,SRG,M,Maringá
+L124,SRG,M,Joinville
+L125,SRG,P,Joinville
+L126,SRG,P,Curitiba
+L127,SRG,M,Londrina
+L128,SRG,M,Joinville
+L129,SRG,P,Joinville
+L130,SRG,P,Ponta Grossa
+L131,SRG,P,Ponta Grossa
+L132,SRG,M,Curitiba
+L133,SRG,P,Londrina
+L134,SRG,P,Ponta Grossa
+L135,SRG,M,Londrina
+L136,SRG,M,Cascavel
+L137,SRG,M,Curitiba
+L138,SRG,M,Maringá
+L139,SRG,M,Londrina
+L140,SRG,G,Ponta Grossa
+L141,SRG,G,Curitiba
+L142,SRG,M,Maringá
+L143,SRG,M,Joinville
+L144,SRG,M,Londrina
+L145,SRG,M,Curitiba
+L146,TRAD,P,Joinville
+L147,TRAD,M,Cascavel
+L148,TRAD,P,Cascavel
+L149,TRAD,M,Ponta Grossa
+L150,TRAD,P,Ponta Grossa
+L151,TRAD,P,Ponta Grossa
+L152,TRAD,M,Londrina
+L153,TRAD,P,Curitiba
+L154,TRAD,M,Londrina
+L155,TRAD,P,Joinville
+L156,TRAD,P,Maringá
+L157,TRAD,P,Maringá
+L158,TRAD,P,Curitiba
+L159,TRAD,P,Cascavel
+L160,TRAD,P,Maringá
+L161,TRAD,P,Cascavel
+L162,TRAD,P,Maringá
+L163,TRAD,P,Curitiba
+L164,TRAD,P,Ponta Grossa
+L165,TRAD,P,Londrina
+L166,TRAD,P,Curitiba
+L167,TRAD,P,Ponta Grossa
+L168,TRAD,P,Joinville
+L169,TRAD,P,Cascavel
+L170,TRAD,M,Ponta Grossa
+L171,TRAD,M,Cascavel
+L172,TRAD,P,Londrina
+L173,TRAD,M,Curitiba
+L174,TRAD,P,Maringá
+L175,TRAD,M,Londrina
+L176,TRAD,P,Joinville
+L177,TRAD,P,Joinville
+L178,TRAD,M,Curitiba
+L179,TRAD,P,Cascavel
+L180,TRAD,M,Londrina
+L181,TRAD,P,Londrina
+L182,TRAD,P,Joinville
+L183,TRAD,P,Curitiba
+L184,TRAD,P,Maringá
+L185,TRAD,M,Curitiba
+L186,TRAD,M,Curitiba
+L187,TRAD,M,Londrina
+L188,TRAD,P,Joinville
+L189,TRAD,P,Maringá
+L190,TRAD,P,Cascavel
+L191,TRAD,M,Curitiba
+L192,TRAD,P,Londrina
+L193,TRAD,P,Curitiba
+L194,TRAD,P,Joinville
+L195,TRAD,P,Curitiba
+L196,TRAD,M,Joinville
+L197,TRAD,P,Ponta Grossa
+L198,TRAD,P,Curitiba
+L199,TRAD,P,Cascavel
+L200,TRAD,M,Joinville

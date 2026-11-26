@@ -1,0 +1,32 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 600' width='1100' height='600' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect width='1100' height='600' rx='12' fill='#fcfcfb'/>
+<text x='48' y='44' font-size='24' font-weight='700' fill='#0b0b0b'>A lata é 83% incremental e está em só 55% das lojas; o café 1 kg é quase todo substituível</text>
+<text x='48' y='74' font-size='15' fill='#52514e'>Teste de descontinuação em 200 lojas: quanto da venda do SKU some da categoria quando ele sai (x, com intervalo de 95%)</text>
+<text x='48' y='96' font-size='15' fill='#52514e'>contra a distribuição numérica (y, % de lojas que vendem o SKU).</text>
+<line x1='110.0' x2='110.0' y1='150' y2='520' stroke='#e4e3df'/><text x='110.0' y='540' font-size='13' fill='#52514e' text-anchor='middle'>0%</text><line x1='110' x2='1000' y1='520.0' y2='520.0' stroke='#e4e3df'/><text x='100' y='524.0' font-size='13' fill='#52514e' text-anchor='end'>0%</text>
+<line x1='288.0' x2='288.0' y1='150' y2='520' stroke='#e4e3df'/><text x='288.0' y='540' font-size='13' fill='#52514e' text-anchor='middle'>20%</text><line x1='110' x2='1000' y1='446.0' y2='446.0' stroke='#e4e3df'/><text x='100' y='450.0' font-size='13' fill='#52514e' text-anchor='end'>20%</text>
+<line x1='466.0' x2='466.0' y1='150' y2='520' stroke='#e4e3df'/><text x='466.0' y='540' font-size='13' fill='#52514e' text-anchor='middle'>40%</text><line x1='110' x2='1000' y1='372.0' y2='372.0' stroke='#e4e3df'/><text x='100' y='376.0' font-size='13' fill='#52514e' text-anchor='end'>40%</text>
+<line x1='644.0' x2='644.0' y1='150' y2='520' stroke='#e4e3df'/><text x='644.0' y='540' font-size='13' fill='#52514e' text-anchor='middle'>60%</text><line x1='110' x2='1000' y1='298.0' y2='298.0' stroke='#e4e3df'/><text x='100' y='302.0' font-size='13' fill='#52514e' text-anchor='end'>60%</text>
+<line x1='822.0' x2='822.0' y1='150' y2='520' stroke='#e4e3df'/><text x='822.0' y='540' font-size='13' fill='#52514e' text-anchor='middle'>80%</text><line x1='110' x2='1000' y1='224.0' y2='224.0' stroke='#e4e3df'/><text x='100' y='228.0' font-size='13' fill='#52514e' text-anchor='end'>80%</text>
+<line x1='1000.0' x2='1000.0' y1='150' y2='520' stroke='#e4e3df'/><text x='1000.0' y='540' font-size='13' fill='#52514e' text-anchor='middle'>100%</text><line x1='110' x2='1000' y1='150.0' y2='150.0' stroke='#e4e3df'/><text x='100' y='154.0' font-size='13' fill='#52514e' text-anchor='end'>100%</text>
+<line x1='555.0' x2='555.0' y1='150' y2='520' stroke='#0b0b0b' stroke-dasharray='5 4'/><line x1='110' x2='1000' y1='224.0' y2='224.0' stroke='#0b0b0b' stroke-dasharray='5 4'/>
+<text x='990' y='246.0' font-size='15' font-weight='700' fill='#2a78d6' text-anchor='end' letter-spacing='2'>EXPANDIR</text><text x='120' y='246.0' font-size='15' font-weight='700' fill='#52514e' letter-spacing='2'>CANDIDATO A CORTE OU TROCA</text>
+<line x1='307.3' x2='435.2' y1='309.1' y2='309.1' stroke='#b9b8b2' stroke-width='3' opacity='0.5'/>
+<circle cx='372.7' cy='309.1' r='9' fill='#b9b8b2' stroke='#fcfcfb' stroke-width='2'/>
+<text x='372.7' y='337.1' font-size='14' font-weight='600' fill='#0b0b0b' text-anchor='middle'>Café 250 g 30%</text>
+<line x1='234.8' x2='373.0' y1='357.2' y2='357.2' stroke='#b9b8b2' stroke-width='3' opacity='0.5'/>
+<circle cx='305.8' cy='357.2' r='9' fill='#b9b8b2' stroke='#fcfcfb' stroke-width='2'/>
+<text x='305.8' y='343.2' font-size='14' font-weight='600' fill='#0b0b0b' text-anchor='middle'>Café 1 kg 22%</text>
+<line x1='337.7' x2='443.4' y1='288.8' y2='288.8' stroke='#b9b8b2' stroke-width='3' opacity='0.5'/>
+<circle cx='383.1' cy='288.8' r='9' fill='#b9b8b2' stroke='#fcfcfb' stroke-width='2'/>
+<text x='383.1' y='274.8' font-size='14' font-weight='600' fill='#0b0b0b' text-anchor='middle'>Biscoito 90 g 31%</text>
+<line x1='290.5' x2='739.6' y1='379.4' y2='379.4' stroke='#b9b8b2' stroke-width='3' opacity='0.5'/>
+<circle cx='492.1' cy='379.4' r='9' fill='#b9b8b2' stroke='#fcfcfb' stroke-width='2'/>
+<text x='492.1' y='365.4' font-size='14' font-weight='600' fill='#0b0b0b' text-anchor='middle'>Biscoito 3x130 g 43%</text>
+<line x1='759.3' x2='951.0' y1='318.4' y2='318.4' stroke='#2a78d6' stroke-width='3' opacity='0.5'/>
+<circle cx='849.5' cy='318.4' r='9' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='849.5' y='304.4' font-size='14' font-weight='600' fill='#0b0b0b' text-anchor='middle'>Refri lata 83%</text>
+<line x1='668.4' x2='954.9' y1='288.8' y2='288.8' stroke='#2a78d6' stroke-width='3' opacity='0.5'/>
+<circle cx='800.0' cy='288.8' r='9' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='800.0' y='274.8' font-size='14' font-weight='600' fill='#0b0b0b' text-anchor='middle'>Refri 600 ml 78%</text>
+<text x='48' y='578' font-size='13' fill='#52514e'>Café 500 g, biscoito 130 g e refri 2 L ficaram fora do teste: são o núcleo do sortimento (mais de 85% de distribuição). Dados fictícios.</text></svg>

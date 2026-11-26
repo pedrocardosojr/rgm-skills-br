@@ -1,0 +1,36 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 520' width='1100' height='520' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect width='1100' height='520' rx='12' fill='#fcfcfb'/>
+<text x='48' y='44' font-size='24' font-weight='700' fill='#0b0b0b'>O lucro bruto cresceu 7%, mas o custo do café comeu quase todo o reajuste</text>
+<text x='48' y='74' font-size='15' fill='#52514e'>Ponte de lucro bruto (receita líquida − custo variável), ano anterior contra as últimas 52 semanas, em R$ milhões.</text>
+<text x='48' y='96' font-size='15' fill='#52514e'>Receita +11,2%; lucro +7,1%; margem bruta de 47,3% para 45,6%. Eixo começa em R$ 25 mi.</text>
+<line x1='110' x2='1050' y1='430.0' y2='430.0' stroke='#e4e3df'/>
+<text x='100' y='434.0' font-size='13' fill='#52514e' text-anchor='end'>25</text>
+<line x1='110' x2='1050' y1='360.0' y2='360.0' stroke='#e4e3df'/>
+<text x='100' y='364.0' font-size='13' fill='#52514e' text-anchor='end'>28</text>
+<line x1='110' x2='1050' y1='290.0' y2='290.0' stroke='#e4e3df'/>
+<text x='100' y='294.0' font-size='13' fill='#52514e' text-anchor='end'>31</text>
+<line x1='110' x2='1050' y1='220.0' y2='220.0' stroke='#e4e3df'/>
+<text x='100' y='224.0' font-size='13' fill='#52514e' text-anchor='end'>34</text>
+<line x1='110' x2='1050' y1='150.0' y2='150.0' stroke='#e4e3df'/>
+<text x='100' y='154.0' font-size='13' fill='#52514e' text-anchor='end'>37</text>
+<rect x='140' y='301.6' width='110' height='128.4' rx='4' fill='#2a78d6'/>
+<text x='195.0' y='293.6' font-size='16' font-weight='700' fill='#0b0b0b' text-anchor='middle'>30,50</text>
+<text x='195.0' y='454' font-size='14' fill='#0b0b0b' font-weight='700' text-anchor='middle'>Lucro</text>
+<text x='195.0' y='470' font-size='14' fill='#0b0b0b' font-weight='700' text-anchor='middle'>bruto ano anterior</text>
+<rect x='302' y='252.9' width='110' height='48.7' rx='4' fill='#7fb0ea'/>
+<text x='357.0' y='244.9' font-size='16' font-weight='700' fill='#0b0b0b' text-anchor='middle'>+2,09</text>
+<text x='357.0' y='454' font-size='14' fill='#0b0b0b' font-weight='400' text-anchor='middle'>Volume</text>
+<rect x='464' y='252.9' width='110' height='6.4' rx='4' fill='#e34948'/>
+<text x='519.0' y='244.9' font-size='16' font-weight='700' fill='#0b0b0b' text-anchor='middle'>−0,27</text>
+<text x='519.0' y='454' font-size='14' fill='#0b0b0b' font-weight='400' text-anchor='middle'>Mix</text>
+<rect x='626' y='187.7' width='110' height='71.5' rx='4' fill='#7fb0ea'/>
+<text x='681.0' y='179.7' font-size='16' font-weight='700' fill='#0b0b0b' text-anchor='middle'>+3,07</text>
+<text x='681.0' y='454' font-size='14' fill='#0b0b0b' font-weight='400' text-anchor='middle'>Preço</text>
+<rect x='788' y='187.7' width='110' height='63.0' rx='4' fill='#e34948'/>
+<text x='843.0' y='179.7' font-size='16' font-weight='700' fill='#0b0b0b' text-anchor='middle'>−2,70</text>
+<text x='843.0' y='454' font-size='14' fill='#0b0b0b' font-weight='400' text-anchor='middle'>Custo</text>
+<rect x='950' y='250.7' width='110' height='179.3' rx='4' fill='#2a78d6'/>
+<text x='1005.0' y='242.7' font-size='16' font-weight='700' fill='#0b0b0b' text-anchor='middle'>32,68</text>
+<text x='1005.0' y='454' font-size='14' fill='#0b0b0b' font-weight='700' text-anchor='middle'>Lucro</text>
+<text x='1005.0' y='470' font-size='14' fill='#0b0b0b' font-weight='700' text-anchor='middle'>bruto 52 semanas</text>
+<text x='48' y='498' font-size='13' fill='#52514e'>Café: preço +1,82 e custo −2,08 (−0,26 líquido). Mix: −0,09 por canal (Atacarejo) e −0,18 por SKU (2 L e multipack). Dados fictícios.</text></svg>

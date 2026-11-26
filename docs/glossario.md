@@ -38,3 +38,14 @@
 | CBS / IBS / Imposto Seletivo | CBS / IBS / Selective Tax | O IVA dual da reforma tributária brasileira e o imposto sobre produtos nocivos |
 | Cálculo por dentro / por fora | Tax-inclusive / tax-exclusive | 27,25% por dentro equivalem a 37,5% por fora |
 | Sell-in / sell-out | Sell-in / sell-out | Venda da indústria ao cliente / venda do cliente ao consumidor |
+| Ponte de preço, volume, mix e custo | Price-volume-mix bridge (PVM) | Explica a variação da receita ou do lucro entre dois períodos em preço, volume, mix e custo |
+| Efeito mix | Mix effect | Variação do lucro porque a composição de SKUs, canais ou clientes mudou |
+| Curva ABC | ABC / Pareto analysis | Classifica itens pelo acumulado: A até 80%, B até 95%, C o resto |
+| Matriz receita × margem | Portfolio / profitability matrix | Separa os itens em defender, corrigir, crescer e racionalizar |
+| Sortimento | Assortment | O conjunto de SKUs que cada loja ou canal vende |
+| Distribuição numérica / ponderada | Numeric / weighted distribution | % das lojas que vendem o SKU / % da venda da categoria nessas lojas |
+| Venda por loja | Rate of sale (ROS) | Venda do SKU nas lojas que o têm |
+| Incrementalidade / transferência de demanda | Incrementality / demand transfer | Quanto da venda some quando o SKU sai / quanto migra para os irmãos |
+| Racionalização de SKUs | SKU rationalization / long-tail cut | Corte de itens de pouca venda e pouca incrementalidade |
+| Mix obrigatório | Must-stock list / core range | SKUs que toda loja de um canal deve ter |
+| Diferença em diferenças | Difference-in-differences (DiD) | Compara a mudança no grupo tratado com a mudança no grupo de controle |
