@@ -1,0 +1,42 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 440' width='1100' height='440' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect width='1100' height='440' rx='12' fill='#fcfcfb'/>
+<text x='48' y='44' font-size='24' font-weight='700' fill='#0b0b0b'>A melhor jogada na escada vale R$ 0,48 mi por ano; baixar o multipack perde R$ 143 mil</text>
+<text x='48' y='74' font-size='15' fill='#52514e'>Ganho de margem de bolso por ano em R$ mil. Barra: do cenário conservador ao otimista de origem do volume. Ponto: cenário base.</text>
+<line x1='360.0' x2='360.0' y1='140' y2='398' stroke='#e4e3df' stroke-width='1'/>
+<text x='360.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>−200</text>
+<line x1='424.0' x2='424.0' y1='140' y2='398' stroke='#e4e3df' stroke-width='1'/>
+<text x='424.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>−100</text>
+<line x1='488.0' x2='488.0' y1='140' y2='398' stroke='#0b0b0b' stroke-width='1.5'/>
+<text x='488.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>0</text>
+<line x1='552.0' x2='552.0' y1='140' y2='398' stroke='#e4e3df' stroke-width='1'/>
+<text x='552.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>100</text>
+<line x1='616.0' x2='616.0' y1='140' y2='398' stroke='#e4e3df' stroke-width='1'/>
+<text x='616.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>200</text>
+<line x1='680.0' x2='680.0' y1='140' y2='398' stroke='#e4e3df' stroke-width='1'/>
+<text x='680.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>300</text>
+<line x1='744.0' x2='744.0' y1='140' y2='398' stroke='#e4e3df' stroke-width='1'/>
+<text x='744.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>400</text>
+<line x1='808.0' x2='808.0' y1='140' y2='398' stroke='#e4e3df' stroke-width='1'/>
+<text x='808.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>500</text>
+<line x1='872.0' x2='872.0' y1='140' y2='398' stroke='#e4e3df' stroke-width='1'/>
+<text x='872.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>600</text>
+<line x1='936.0' x2='936.0' y1='140' y2='398' stroke='#e4e3df' stroke-width='1'/>
+<text x='936.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>700</text>
+<line x1='1000.0' x2='1000.0' y1='140' y2='398' stroke='#e4e3df' stroke-width='1'/>
+<text x='1000.0' y='134' font-size='11' fill='#52514e' text-anchor='middle'>800</text>
+<text x='330' y='180' font-size='14' font-weight='700' fill='#0b0b0b' text-anchor='end'>Lançar 1,5 L e subir 2 L em 4%</text>
+<rect x='677.0' y='164' width='185.9' height='24' rx='4' fill='#2a78d6' opacity='0.35'/>
+<circle cx='796.6' cy='176' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='874.9' y='181' font-size='13' font-weight='700' fill='#0b0b0b' text-anchor='start'>482  (295 a 586)</text>
+<text x='330' y='242' font-size='14' font-weight='500' fill='#0b0b0b' text-anchor='end'>Lançar 1,5 L</text>
+<rect x='497.9' y='226' width='175.4' height='24' rx='4' fill='#2a78d6' opacity='0.35'/>
+<circle cx='611.2' cy='238' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='685.2' y='243' font-size='13' font-weight='700' fill='#0b0b0b' text-anchor='start'>192  (15 a 289)</text>
+<text x='330' y='304' font-size='14' font-weight='500' fill='#0b0b0b' text-anchor='end'>Subir o biscoito 130 g em 4%</text>
+<rect x='553.3' y='288' width='35.8' height='24' rx='4' fill='#2a78d6' opacity='0.35'/>
+<circle cx='574.4' cy='300' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='601.1' y='305' font-size='13' font-weight='700' fill='#0b0b0b' text-anchor='start'>135  (102 a 158)</text>
+<text x='330' y='366' font-size='14' font-weight='500' fill='#0b0b0b' text-anchor='end'>Baixar o multipack em 6%</text>
+<rect x='396.5' y='350' width='91.5' height='24' rx='4' fill='#e34948'/>
+<text x='384.5' y='367' font-size='13' font-weight='700' fill='#0b0b0b' text-anchor='end'>−143</text>
+<text x='48' y='418' font-size='11' fill='#52514e'>Sem custo de molde, listagem e ruptura de lançamento. Elasticidades e origem do volume em references/simulacao.md. Dados fictícios.</text></svg>
