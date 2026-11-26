@@ -1,0 +1,31 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 500' width='1100' height='500' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect width='1100' height='500' rx='12' fill='#fcfcfb'/>
+<text x='48' y='44' font-size='24' font-weight='700' fill='#0b0b0b'>O volume subiu 158% e a promoção perdeu R$ 60 mil</text>
+<text x='48' y='74' font-size='15' fill='#52514e'>Anatomia do evento E03: café 500 g na Rede nacional, encarte + ponto extra com 15% de desconto, 1 semana. R$ mil.</text>
+<text x='48' y='96' font-size='15' fill='#52514e'>Canibalizou 32% do incremental nos outros cafés e antecipou 36% das compras das 2 semanas seguintes.</text>
+<line x1='120' x2='1040' y1='394.7' y2='394.7' stroke='#e4e3df' stroke-width='1'/>
+<text x='110' y='398.7' font-size='11' fill='#52514e' text-anchor='end'>−60</text>
+<line x1='120' x2='1040' y1='333.5' y2='333.5' stroke='#e4e3df' stroke-width='1'/>
+<text x='110' y='337.5' font-size='11' fill='#52514e' text-anchor='end'>−40</text>
+<line x1='120' x2='1040' y1='272.4' y2='272.4' stroke='#e4e3df' stroke-width='1'/>
+<text x='110' y='276.4' font-size='11' fill='#52514e' text-anchor='end'>−20</text>
+<line x1='120' x2='1040' y1='211.2' y2='211.2' stroke='#0b0b0b' stroke-width='1.5'/>
+<text x='110' y='215.2' font-size='11' fill='#52514e' text-anchor='end'>0</text>
+<line x1='120' x2='1040' y1='150.0' y2='150.0' stroke='#e4e3df' stroke-width='1'/>
+<text x='110' y='154.0' font-size='11' fill='#52514e' text-anchor='end'>20</text>
+<rect x='160' y='165.8' width='120' height='45.4' rx='4' fill='#2a78d6'/>
+<text x='220.0' y='157.8' font-size='14' font-weight='700' fill='#0b0b0b' text-anchor='middle'>+14,8</text>
+<text x='220.0' y='440' font-size='12.5' fill='#0b0b0b' font-weight='400' text-anchor='middle'>Margem extra no SKU</text>
+<rect x='340' y='165.8' width='120' height='48.1' rx='4' fill='#e34948'/>
+<text x='400.0' y='231.9' font-size='14' font-weight='700' fill='#0b0b0b' text-anchor='middle'>−15,7</text>
+<text x='400.0' y='440' font-size='12.5' fill='#0b0b0b' font-weight='400' text-anchor='middle'>Canibalização</text>
+<rect x='520' y='213.9' width='120' height='59.4' rx='4' fill='#e34948'/>
+<text x='580.0' y='291.3' font-size='14' font-weight='700' fill='#0b0b0b' text-anchor='middle'>−19,4</text>
+<text x='580.0' y='440' font-size='12.5' fill='#0b0b0b' font-weight='400' text-anchor='middle'>Pull-forward</text>
+<rect x='700' y='273.3' width='120' height='122.4' rx='4' fill='#e34948'/>
+<text x='760.0' y='413.7' font-size='14' font-weight='700' fill='#0b0b0b' text-anchor='middle'>−40,0</text>
+<text x='760.0' y='440' font-size='12.5' fill='#0b0b0b' font-weight='400' text-anchor='middle'>Verba de encarte e ponto</text>
+<rect x='880' y='211.2' width='120' height='184.5' rx='4' fill='#e34948'/>
+<text x='940.0' y='413.7' font-size='14' font-weight='700' fill='#0b0b0b' text-anchor='middle'>−60,3</text>
+<text x='940.0' y='440' font-size='12.5' fill='#0b0b0b' font-weight='700' text-anchor='middle'>Resultado</text>
+<text x='48' y='478' font-size='11' fill='#52514e'>Margem de bolso sem impostos contra a baseline (semanas limpas em ±6 semanas). Dados fictícios.</text></svg>

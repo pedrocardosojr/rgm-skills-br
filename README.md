@@ -8,7 +8,7 @@ Skills de **Revenue Growth Management** para bens de consumo no Brasil, em um pl
 |---|---|---|
 | `price-waterfall` | Onde a margem vaza entre o preço de lista e o preço de bolso? | pronta · [caso](caso/01-price-waterfall.md) |
 | `preco-cbs-ibs` | Quanto repassar, por canal e por ano, na transição da reforma? | pronta · [caso](caso/02-preco-cbs-ibs.md) |
-| `retorno-promocao` | Esta promoção se paga ou só antecipa e canibaliza venda? | em construção |
+| `retorno-promocao` | Esta promoção se paga ou só antecipa e canibaliza venda? | pronta · [caso](caso/03-retorno-promocao.md) |
 | `price-pack-architecture` | A escada de preço por tamanho faz sentido? Onde há lacuna? | em construção |
 
 ## Instalação
@@ -28,7 +28,7 @@ As quatro análises aplicadas à Vale Alto, cada uma com o número-chave, os gr�
 
 1. [Price waterfall](caso/01-price-waterfall.md): R$ 15,6 mi (19,8%) da lista não chegam ao bolso, e R$ 0,84 mi por ano são recuperáveis.
 2. [Preço com CBS/IBS](caso/02-preco-cbs-ibs.md): R$ 4,25 mi por ano ficam em disputa em 2033, e o plano garante pelo menos R$ 2,45 mi em qualquer cenário.
-3. Retorno de promoção (em construção)
+3. [Retorno de promoção](caso/03-retorno-promocao.md): R$ 1,00 mi investido devolveu −R$ 0,56 mi; 15 de 27 eventos destroem margem com segurança estatística.
 4. Price-pack architecture (em construção)
 
 ## Aviso
