@@ -1,0 +1,72 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1100 640' width='1100' height='640' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect width='1100' height='640' rx='12' fill='#fcfcfb'/>
+<text x='48' y='44' font-size='24' font-weight='700' fill='#0b0b0b'>Em promoção, 1% de desconto traz cerca de 3,7% de volume</text>
+<text x='48' y='74' font-size='15' fill='#52514e'>Elasticidade-preço de curto prazo estimada por SKU, com intervalo de 95% (canal dentro do SKU, SKU dentro da categoria).</text>
+<text x='48' y='96' font-size='15' fill='#52514e'><tspan fill='#2a78d6' font-weight='700'>Azul</tspan>: estimativa com pooling. <tspan fill='#6b6a66' font-weight='700'>Cinza</tspan>: só o dado do próprio SKU. Traço preto: o parâmetro usado para gerar os dados.</text>
+<line x1='280.0' x2='280.0' y1='160' y2='584' stroke='#e4e3df'/>
+<text x='280.0' y='152' font-size='13' fill='#52514e' text-anchor='middle'>−6</text>
+<line x1='424.0' x2='424.0' y1='160' y2='584' stroke='#e4e3df'/>
+<text x='424.0' y='152' font-size='13' fill='#52514e' text-anchor='middle'>−5</text>
+<line x1='568.0' x2='568.0' y1='160' y2='584' stroke='#e4e3df'/>
+<text x='568.0' y='152' font-size='13' fill='#52514e' text-anchor='middle'>−4</text>
+<line x1='712.0' x2='712.0' y1='160' y2='584' stroke='#e4e3df'/>
+<text x='712.0' y='152' font-size='13' fill='#52514e' text-anchor='middle'>−3</text>
+<line x1='856.0' x2='856.0' y1='160' y2='584' stroke='#e4e3df'/>
+<text x='856.0' y='152' font-size='13' fill='#52514e' text-anchor='middle'>−2</text>
+<line x1='1000.0' x2='1000.0' y1='160' y2='584' stroke='#e4e3df'/>
+<text x='1000.0' y='152' font-size='13' fill='#52514e' text-anchor='middle'>−1</text>
+<text x='250' y='198.0' font-size='15' fill='#0b0b0b' text-anchor='end'>Café 250 g</text>
+<line x1='571.6' x2='780.4' y1='193.0' y2='193.0' stroke='#2a78d6' stroke-width='4' stroke-linecap='round' opacity='0.45'/>
+<circle cx='742.2' cy='193.0' r='6' fill='#9a9993' stroke='#fcfcfb' stroke-width='2'/>
+<line x1='781.1' x2='781.1' y1='180.0' y2='206.0' stroke='#0b0b0b' stroke-width='3'/>
+<circle cx='676.0' cy='193.0' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='1016' y='198.0' font-size='15' font-weight='700' fill='#0b0b0b'>−3,2</text>
+<text x='250' y='244.0' font-size='15' fill='#0b0b0b' text-anchor='end'>Café 500 g</text>
+<line x1='520.7' x2='684.4' y1='239.0' y2='239.0' stroke='#2a78d6' stroke-width='4' stroke-linecap='round' opacity='0.45'/>
+<circle cx='596.8' cy='239.0' r='6' fill='#9a9993' stroke='#fcfcfb' stroke-width='2'/>
+<line x1='677.4' x2='677.4' y1='226.0' y2='252.0' stroke='#0b0b0b' stroke-width='3'/>
+<circle cx='602.6' cy='239.0' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='1016' y='244.0' font-size='15' font-weight='700' fill='#0b0b0b'>−3,8</text>
+<text x='250' y='290.0' font-size='15' fill='#0b0b0b' text-anchor='end'>Café 1 kg</text>
+<line x1='466.5' x2='675.3' y1='285.0' y2='285.0' stroke='#2a78d6' stroke-width='4' stroke-linecap='round' opacity='0.45'/>
+<circle cx='520.5' cy='285.0' r='6' fill='#9a9993' stroke='#fcfcfb' stroke-width='2'/>
+<line x1='625.6' x2='625.6' y1='272.0' y2='298.0' stroke='#0b0b0b' stroke-width='3'/>
+<circle cx='570.9' cy='285.0' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='1016' y='290.0' font-size='15' font-weight='700' fill='#0b0b0b'>−4,0</text>
+<text x='250' y='336.0' font-size='15' fill='#0b0b0b' text-anchor='end'>Biscoito 90 g</text>
+<line x1='506.1' x2='647.2' y1='331.0' y2='331.0' stroke='#2a78d6' stroke-width='4' stroke-linecap='round' opacity='0.45'/>
+<circle cx='560.1' cy='331.0' r='6' fill='#9a9993' stroke='#fcfcfb' stroke-width='2'/>
+<line x1='573.8' x2='573.8' y1='318.0' y2='344.0' stroke='#0b0b0b' stroke-width='3'/>
+<circle cx='576.6' cy='331.0' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='1016' y='336.0' font-size='15' font-weight='700' fill='#0b0b0b'>−3,9</text>
+<text x='250' y='382.0' font-size='15' fill='#0b0b0b' text-anchor='end'>Biscoito 130 g</text>
+<line x1='522.0' x2='674.4' y1='377.0' y2='377.0' stroke='#2a78d6' stroke-width='4' stroke-linecap='round' opacity='0.45'/>
+<circle cx='587.5' cy='377.0' r='6' fill='#9a9993' stroke='#fcfcfb' stroke-width='2'/>
+<line x1='625.6' x2='625.6' y1='364.0' y2='390.0' stroke='#0b0b0b' stroke-width='3'/>
+<circle cx='598.2' cy='377.0' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='1016' y='382.0' font-size='15' font-weight='700' fill='#0b0b0b'>−3,8</text>
+<text x='250' y='428.0' font-size='15' fill='#0b0b0b' text-anchor='end'>Biscoito 3x130 g</text>
+<line x1='585.7' x2='766.3' y1='423.0' y2='423.0' stroke='#2a78d6' stroke-width='4' stroke-linecap='round' opacity='0.45'/>
+<circle cx='737.2' cy='423.0' r='6' fill='#9a9993' stroke='#fcfcfb' stroke-width='2'/>
+<line x1='729.3' x2='729.3' y1='410.0' y2='436.0' stroke='#0b0b0b' stroke-width='3'/>
+<circle cx='676.0' cy='423.0' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='1016' y='428.0' font-size='15' font-weight='700' fill='#0b0b0b'>−3,2</text>
+<text x='250' y='474.0' font-size='15' fill='#0b0b0b' text-anchor='end'>Refri lata 350 ml</text>
+<line x1='538.3' x2='871.3' y1='469.0' y2='469.0' stroke='#2a78d6' stroke-width='4' stroke-linecap='round' opacity='0.45'/>
+<circle cx='825.8' cy='469.0' r='6' fill='#9a9993' stroke='#fcfcfb' stroke-width='2'/>
+<line x1='755.2' x2='755.2' y1='456.0' y2='482.0' stroke='#0b0b0b' stroke-width='3'/>
+<circle cx='704.8' cy='469.0' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='1016' y='474.0' font-size='15' font-weight='700' fill='#0b0b0b'>−3,0</text>
+<text x='250' y='520.0' font-size='15' fill='#0b0b0b' text-anchor='end'>Refri 600 ml</text>
+<line x1='457.2' x2='745.1' y1='515.0' y2='515.0' stroke='#2a78d6' stroke-width='4' stroke-linecap='round' opacity='0.45'/>
+<circle cx='592.5' cy='515.0' r='6' fill='#9a9993' stroke='#fcfcfb' stroke-width='2'/>
+<line x1='677.4' x2='677.4' y1='502.0' y2='528.0' stroke='#0b0b0b' stroke-width='3'/>
+<circle cx='601.1' cy='515.0' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='1016' y='520.0' font-size='15' font-weight='700' fill='#0b0b0b'>−3,8</text>
+<text x='250' y='566.0' font-size='15' fill='#0b0b0b' text-anchor='end'>Refri 2 L</text>
+<line x1='437.4' x2='623.7' y1='561.0' y2='561.0' stroke='#2a78d6' stroke-width='4' stroke-linecap='round' opacity='0.45'/>
+<circle cx='511.8' cy='561.0' r='6' fill='#9a9993' stroke='#fcfcfb' stroke-width='2'/>
+<line x1='521.9' x2='521.9' y1='548.0' y2='574.0' stroke='#0b0b0b' stroke-width='3'/>
+<circle cx='530.6' cy='561.0' r='8' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='1016' y='566.0' font-size='15' font-weight='700' fill='#0b0b0b'>−4,3</text>
+<text x='48' y='616' font-size='13' fill='#52514e'>O intervalo contém o parâmetro em 8 de 9 SKUs. Semanas de TPR; ficam fora encarte, ponto extra, canibalização e pull-forward. Dados fictícios.</text></svg>

@@ -47,7 +47,7 @@ Por categoria e canal, do menor para o maior tamanho:
 - Comparar preço por unidade entre tamanhos diferentes; a comparação é sempre por kg/L.
 - Lançar um tamanho sem dizer de onde vem o volume. Volume novo sem origem é só otimismo.
 - "Consertar" um degrau fraco baixando o preço do tamanho de margem menor, sem rodar a alternativa de subir o tamanho vizinho.
-- Reduzir conteúdo sem avisar o consumidor: a mudança de quantidade exige informação clara na embalagem por um período (conferir a norma vigente do Inmetro e do Código de Defesa do Consumidor).
+- Reduzir conteúdo sem avisar o consumidor: a mudança de quantidade exige aviso claro no rótulo por um período (norma da Senacon, citada como 180 dias; conferir a versão vigente) além do Código de Defesa do Consumidor.
 
 ## Vocabulário
 

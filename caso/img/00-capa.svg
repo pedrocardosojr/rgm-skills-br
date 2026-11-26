@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 900' width='1200' height='900' font-family='-apple-system,Segoe UI,Helvetica,Arial,sans-serif'>
+<rect width='1200' height='900' fill='#14213D'/>
+<text x='80' y='120' font-size='30' font-weight='700' letter-spacing='3' fill='#8FB8EE'>KIT DE SKILLS PARA CLAUDE CODE</text>
+<text x='80' y='210' font-size='76' font-weight='700' fill='#FCFCFB'>RGM para bens de consumo</text>
+<text x='80' y='330' font-size='110' font-weight='800' fill='#FCFCFB'>R$ 1,90 mi/ano</text>
+<text x='80' y='390' font-size='38' fill='#C9D3E3'>de margem de bolso (+7,9%) e R$ 2,45 mi</text>
+<text x='80' y='438' font-size='38' fill='#C9D3E3'>protegidos na reforma tributária</text>
+<rect x='80' y='540' width='303' height='64' rx='32' fill='none' stroke='#8FB8EE' stroke-width='2.5'/>
+<text x='231.5' y='582' font-size='30' font-weight='600' fill='#FCFCFB' text-anchor='middle'>Price waterfall</text>
+<rect x='403' y='540' width='371' height='64' rx='32' fill='none' stroke='#8FB8EE' stroke-width='2.5'/>
+<text x='588.5' y='582' font-size='30' font-weight='600' fill='#FCFCFB' text-anchor='middle'>Retorno de promoção</text>
+<rect x='794' y='540' width='303' height='64' rx='32' fill='none' stroke='#8FB8EE' stroke-width='2.5'/>
+<text x='945.5' y='582' font-size='30' font-weight='600' fill='#FCFCFB' text-anchor='middle'>Escada de preço</text>
+<rect x='80' y='626' width='303' height='64' rx='32' fill='none' stroke='#8FB8EE' stroke-width='2.5'/>
+<text x='231.5' y='668' font-size='30' font-weight='600' fill='#FCFCFB' text-anchor='middle'>Reforma CBS/IBS</text>
+<rect x='403' y='626' width='405' height='64' rx='32' fill='none' stroke='#8FB8EE' stroke-width='2.5'/>
+<text x='605.5' y='668' font-size='30' font-weight='600' fill='#FCFCFB' text-anchor='middle'>Elasticidade estimada</text>
+<text x='80' y='840' font-size='28' fill='#C9D3E3'>Pedro Cardoso Jr · github.com/pedrocardosojr/rgm-skills-br · dados fictícios</text></svg>

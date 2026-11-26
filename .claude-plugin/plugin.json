@@ -1,10 +1,21 @@
 {
   "name": "rgm-br",
-  "version": "0.1.0",
-  "description": "Revenue Growth Management para bens de consumo no Brasil: price waterfall, retorno de promoção, price-pack architecture e preço com CBS/IBS.",
-  "author": { "name": "Pedro Cardoso Jr" },
+  "version": "0.2.0",
+  "description": "Revenue Growth Management para bens de consumo no Brasil: price waterfall, retorno de promoção, price-pack architecture, elasticidade estimada e preço com CBS/IBS.",
+  "author": {
+    "name": "Pedro Cardoso Jr"
+  },
   "homepage": "https://github.com/pedrocardosojr/rgm-skills-br",
   "repository": "https://github.com/pedrocardosojr/rgm-skills-br",
   "license": "MIT",
-  "keywords": ["rgm", "revenue-growth-management", "pricing", "cpg", "bens-de-consumo", "reforma-tributaria", "cbs", "ibs"]
+  "keywords": [
+    "rgm",
+    "revenue-growth-management",
+    "pricing",
+    "cpg",
+    "bens-de-consumo",
+    "reforma-tributaria",
+    "cbs",
+    "ibs"
+  ]
 }
